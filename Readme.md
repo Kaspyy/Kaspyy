@@ -1,5 +1,5 @@
 ### Hi there, I'm Kacper
-## I'm a Computer Science student and newbie (not for long) front-end developer
+## I'm a Computer Science student and novice front-end developer
 
 - 🌱 I’m currently learning React
 - 🥅 2022 Goals: Land a job as a front-end developer
