@@ -2,7 +2,7 @@
 ## I'm a Computer Science student and novice front-end developer
 
 - 🌱 I’m currently learning JavaScript
-- 🥅 2022 Goals: Land a job as a front-end developer
+- 🥅 2022 Goals: Land an internship as a front-end developer
 - ⚡ Fun fact: I'm into Myers-Briggs typology and my personality type is INFJ
 
 ### Connect with me:
