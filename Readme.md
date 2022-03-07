@@ -1,7 +1,7 @@
 ### Hi there, I'm Kacper
 ## I'm a Computer Science student and novice front-end developer
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React.js
 - 🥅 2022 Goals: Land an internship as a front-end developer
 - ⚡ Fun fact: I'm into Myers-Briggs typology and my personality type is INFJ
 
