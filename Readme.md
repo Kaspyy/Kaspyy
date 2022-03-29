@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning React.js
 - 🥅 2022 Goals: Land an internship as a front-end developer
-- ⚡ Fun fact: I'm into Myers-Briggs typology and my personality type is INFJ
+- ⚡ Fun fact: I'm into personality typology and my type is INFJ
 
 ### Connect with me:
 
