@@ -1,7 +1,7 @@
 ### Hi there, I'm Kacper
 ## I'm a Computer Science student and junior front-end developer
 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning TypeScript
 - 🥅 2022 Goals: Build an eCommerce store using MERN stack
 - ⚡ Fun fact: I'm into personality typology and my type is INFJ
 
