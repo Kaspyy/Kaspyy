@@ -1,8 +1,8 @@
 ### Hi there, I'm Kacper
-## I'm a Computer Science student and novice front-end developer
+## I'm a Computer Science student and junior front-end developer
 
 - 🌱 I’m currently learning React.js
-- 🥅 2022 Goals: Land an internship as a front-end developer
+- 🥅 2022 Goals: Build an eCommerce store using MERN stack
 - ⚡ Fun fact: I'm into personality typology and my type is INFJ
 
 ### Connect with me:
@@ -12,10 +12,6 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="vscode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -23,6 +19,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 
