@@ -1,5 +1,5 @@
 ### Hi there, I'm Kacper
-## I'm a Computer Science student and junior front-end developer
+## I'm a Computer Science student and React developer
 
 - 🌱 I’m currently learning TypeScript
 - 🥅 2022 Goals: Build an eCommerce store using MERN stack
