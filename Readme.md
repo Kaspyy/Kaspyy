@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning TypeScript
 - 🥅 2022 Goals: Build an eCommerce store using MERN stack
-- ⚡ Fun fact: I'm into personality typology and my type is INFJ
+- ⚡ Fun fact: Besides programming my biggest interest is psychology
 
 ### Connect with me:
 
