@@ -10,7 +10,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kacper-pawlak-29009a138#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kacper-pawlak-29009a138#gh-dark-mode-only)
 
-### Languages and Tools:
+### Languages and Technologies:
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 
