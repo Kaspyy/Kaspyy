@@ -1,7 +1,7 @@
 ### Hi there, I'm Kacper
 ## I'm a Computer Science student and React developer
 
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Next.js
 - 🥅 2022 Goals: Build an eCommerce store using MERN stack
 - ⚡ Fun fact: Besides programming my biggest interest is psychology
 
@@ -17,6 +17,8 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
