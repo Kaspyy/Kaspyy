@@ -1,7 +1,7 @@
 ### Hi there, I'm Kacper
 ## I'm a Computer Science student and React developer
 
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Node.js and Express.js
 - 🥅 2022 Goals: Build an eCommerce store using MERN stack
 - ⚡ Fun fact: Besides programming my biggest interest is psychology
 
