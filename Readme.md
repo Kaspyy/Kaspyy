@@ -2,7 +2,7 @@
 ## I'm a Computer Science student and React developer
 
 - 🌱 I’m currently learning TailwindCSS
-- 🥅 2022 Goals: Build an eCommerce store using MERN stack
+- 🥅 2022 Goals: Get better at CSS
 - ⚡ Fun fact: Besides programming my biggest interest is psychology
 
 ### Connect with me:
