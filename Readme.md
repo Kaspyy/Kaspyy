@@ -1,5 +1,5 @@
 ### Hi there, I'm Kacper
-## I'm a Computer Science student and React developer
+## I'm a Computer Science student and React/NextJS developer
 
 - 🌱 I’m currently learning TailwindCSS
 - 🥅 2022 Goals: Get better at CSS
