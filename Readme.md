@@ -1,9 +1,9 @@
 ### Hi there, I'm Kacper
-## I'm a Computer Science student and React/Next.js developer
+## I'm a Software Engineer and a Front-End developer
 
 - 🌱 I’m currently learning TailwindCSS
-- 🥅 2022 Goals: Get better at CSS
-- ⚡ Fun fact: Besides programming my biggest interest is psychology
+- 🥅 2023 Goals: Get better at CSS
+- ⚡ Fun fact: If I'm not programming, I'm probably playing the piano
 
 ### Connect with me:
 
