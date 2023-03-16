@@ -1,8 +1,8 @@
 ### Hi there, I'm Kacper
 ## I'm a Software Engineer and a Front-End developer
 
-- 🌱 I’m currently learning TailwindCSS
-- 🥅 2023 Goals: Get better at CSS
+- 🌱 I’m currently learning React Testing Library
+- 🥅 2023 Goals: Get promoted lol
 - ⚡ Fun fact: If I'm not programming, I'm probably playing the piano
 
 ### Connect with me:
