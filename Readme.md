@@ -1,5 +1,5 @@
 # Hello there 👋
-My name is Kacper, I am a Front-End developer from Poland.
+My name is Kacper, I am a front-end developer from Poland.
 
 # About Me
 - 🌱 I'm currently learning: Next.js 13
